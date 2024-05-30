@@ -19,7 +19,7 @@ Ensure you have the following installed:
 - Node.js (version 14.x or later).
 - npm (version 6.x or later).
   
-3- For installation instructions click on link below:
+3- For installation instructions click on link:
 [Installation Instructions](./installation_instructions.pdf)
 
 
