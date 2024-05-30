@@ -20,7 +20,8 @@ Ensure you have the following installed:
 - npm (version 6.x or later).
   
 3- For installation instructions:
-Refer to the (installation_instructions.pdf) file within the main respiratory.
+[Installation Instructions](./installation_instructions.pdf)
+
 
 4-Contributing
 If you wish to contribute to this project, please follow these steps:
